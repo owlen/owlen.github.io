@@ -197,6 +197,7 @@ a:hover, a:focus, a:active {
       width:20em;
       margin: 2em;
       z-index: 10;
+      border-radius: 2em;    
     }
     a.pop:hover > img {
       display: block;
